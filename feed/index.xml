@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rizal Izzudien</title>
+	<atom:link href="https://zallakhrass.github.io/Portofolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zallakhrass.github.io/Portofolio</link>
+	<description></description>
+	<lastBuildDate>Sun, 31 Dec 2023 05:05:10 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Halo dunia!</title>
+		<link>https://zallakhrass.github.io/Portofolio/2023/12/31/halo-dunia/</link>
+					<comments>https://zallakhrass.github.io/Portofolio/2023/12/31/halo-dunia/#comments</comments>
+		
+		<dc:creator><![CDATA[Rizal Izzudien]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2023 05:05:10 +0000</pubDate>
+				<category><![CDATA[Tak Berkategori]]></category>
+		<guid isPermaLink="false">https://zallakhrass.github.io/Portofolio/?p=1</guid>
+
+					<description><![CDATA[Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!]]></description>
+										<content:encoded><![CDATA[
+<p>Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zallakhrass.github.io/Portofolio/2023/12/31/halo-dunia/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
